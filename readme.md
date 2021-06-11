@@ -34,7 +34,7 @@ Cara menjalankan Aplikasi :
 - buka browser, ketikan url "localhost:8000"
 
 ======================
-==  <h5>Account Created : <h5>		
-==  username : admin@mail.com	
+==  <h5>Account Created : <h5><br>	
+==  username : admin@mail.com<br>
 ==  password : 12345678
 
