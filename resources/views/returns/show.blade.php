@@ -50,8 +50,8 @@
                             </tr>
                         </tbody>
                     </table>
-                    <label>Foto Mobil</label>
-                    <img src="{{$booking->car->getPhoto()}}" style="width: 100%; height: 200px">
+                    <label>Foto Mobil :</label>
+                    <img src="{{$booking->car->getPhoto()}}" style="height: 200px">
                 </div> 
                 
                 <div class="col-lg-6">
