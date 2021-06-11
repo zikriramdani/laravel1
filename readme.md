@@ -17,7 +17,11 @@
         <li> Laporan Transaksi</li>
 </ul>
 
- <p>Aplikasi ini dibuat menggunakan Framework Laravel 5 dengan tambahan package-package lain, seperti : 1) SweetAlert 2) Datatables, 3) Dll.</p>
+ <p>Aplikasi ini dibuat menggunakan Framework Laravel 5 dengan tambahan package-package lain, seperti :
+ 1) Bootstrap 4,<br>
+ 2) SweetAlert,<br>
+ 3) Datatables,<br>
+ 4) Dll.</p>
 
 Cara menjalankan Aplikasi : 
 - Simpan Project di /htdocs (kalau pake xampp)
