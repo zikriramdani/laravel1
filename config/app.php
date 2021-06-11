@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://laravel1.netlify.app'),
+    'url' => env('APP_URL', 'https://herolaravelone.herokuapp.com/'),
     // 'url' => env('APP_URL', 'http://localhost'),
     
     'asset_url' => env('ASSET_URL', null),
