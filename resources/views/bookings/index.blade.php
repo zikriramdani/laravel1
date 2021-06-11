@@ -7,7 +7,7 @@
     <style>
         .car-img{
             width: 100%;
-            max-height: 220px;
+            max-height: 150px;
             padding-bottom: 20px;
         }
     </style>
@@ -16,7 +16,7 @@
     <h2>Pilih Mobil</h2>
     <div class="row">
         @foreach ($cars as $car)
-        <div class="col-lg-4">
+        <div class="col-lg-3">
             <div class="card">
                 <img class="car-img" src="{{$car->getPhoto()}}" alt="car images">
                 <div class="card-body">
