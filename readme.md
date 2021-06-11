@@ -33,7 +33,7 @@ Cara menjalankan Aplikasi :
 - di dalam directory project buka terminal, ketikan "php artisan serve"
 - buka browser, ketikan url "localhost:8000"
 
-======================
+<hr>
 ==  <h5>Account Created : <h5><br>
 ==  username : admin@mail.com<br>
 ==  password : 12345678
