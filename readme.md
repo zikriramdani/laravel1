@@ -1,6 +1,6 @@
 # https://zikriramdani.github.io
 
-![result](https://github.com/zikriramdani/laravel/blob/main/screencapture.png)
+![result](https://github.com/zikriramdani/laravel1/blob/main/screencapture.png)
 
 <b>Aplikasi pendataan perentalan mobil</b><br>
 <hr>
