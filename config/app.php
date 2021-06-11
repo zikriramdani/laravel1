@@ -52,7 +52,8 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    // 'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://clever-snyder-77c331.netlify.app'),
 
     'asset_url' => env('ASSET_URL', null),
 
