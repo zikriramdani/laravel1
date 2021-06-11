@@ -2,9 +2,9 @@
 
 <b>Aplikasi pendataan perentalan mobil</b><br>
 <hr>
-<h6>
+<p>
     Aplikasi ini mempunyai fitur : 
-</h6>
+</p>
 <ul>
         <li> Pendataan data mobil</li>
         <li> Pendataan data merk mobil</li>
@@ -15,7 +15,7 @@
         <li> Laporan Transaksi</li>
 </ul>
 
- <p>Aplikasi ini dibuat menggunakan Framework Laravel 5 dengan tambahan package-package lain, seperti :<br>
+ <p>Aplikasi ini dibuat menggunakan Framework Laravel 5 dengan tambahan package-package lain, seperti :<br><br>
  1) Bootstrap 4,<br>
  2) SweetAlert,<br>
  3) Datatables,<br>
